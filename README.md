@@ -1,48 +1,59 @@
-# 👋 Hi, I’m Ronit — Data Analyst & Data Enthusiast
+# Hi, I'm Ronit Bera 👋
 
-Welcome to my GitHub!  
-I'm passionate about transforming raw data into actionable insights using a blend of analytical skills and creative problem-solving. Whether wrangling datasets or building insightful dashboards, I love uncovering the stories hidden in numbers.
+### Computer Science Engineer | Software Development | Data Analytics
 
----
+I'm a Computer Science graduate interested in building software, automating workflows, and turning data into useful insights.
 
-## 🚀 About Me
+## 💻 Software Development
 
-- **Profession:** Data Analyst  
-- **Bio:**  
-  Curious, self-driven, and always learning something new. I thrive at the intersection of analytics and technology, leveraging Python, SQL, Excel, and Power BI to deliver impactful data solutions. With a strong foundation in Java, HTML, and CSS, I also design clean, responsive interfaces for data-driven projects.
+* Python
+* Java
+* OOP
+* HTML, CSS, JavaScript
+* Selenium & pytest
+* Git & GitHub
+* GitHub Actions
+* Automation Testing
 
----
+## 📊 Data Analytics
 
-## 🛠️ Skills & Tools
+* SQL
+* Python
+* Pandas & NumPy
+* PostgreSQL
+* Power BI
+* DAX
+* Excel
+* Data Cleaning & Visualization
 
-**Programming Languages:**  
-`Java` • `Python` (NumPy, pandas, matplotlib, seaborn) • `SQL` (MySQL, PostgreSQL) • `MS Excel`
+## 🚀 Featured Projects
 
-**Data Technologies & Frameworks:**  
-`Tableau` • `Google Colab` • `Power BI`
+### 🔹 Selenium Automation Framework
 
-**Concepts:**  
-DBMS • EDA • Data Cleaning & Preprocessing • Data Visualization  
-ETL • Hypothesis Testing • Regression Analysis • t-test • Chi-square test
+A Python-based web automation framework using Selenium and pytest with Page Object Model, reusable fixtures, assertions, screenshots, and CI execution.
 
----
+### 🔹 Stock Market Analytics Dashboard
 
-## 🌟 Featured Projects
+Analyzed stock market data using SQL and Python and created an interactive Power BI dashboard with DAX-based metrics.
 
-- **Weather API:**  
-  Analyze and visualize weather trends using real-time data.  
-  [https://ronitbera.github.io/WeatherApp/]
+### 🔹 E-commerce Sales Analytics
 
-- **Stock Market Dashboard:**  
-  Interactive dashboard for monitoring and analyzing stock market movements.  
-  [https://github.com/Ronitbera/stock-market-dashboard-powerbi]
+Analyzed e-commerce sales data to identify trends, product performance, customer behavior, and business insights.
 
----
+### 🔹 Weather Forecast Web App
+
+A web application that retrieves and displays weather information using a weather API.
+
+## 🛠️ Tools & Technologies
+
+**Languages:** Python, Java, SQL, JavaScript
+
+**Data:** Pandas, NumPy, Power BI, DAX, Excel, PostgreSQL
+
+**Software:** Selenium, pytest, Git, GitHub Actions
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ronit-bera-1a3521255)
+* LinkedIn: https://www.linkedin.com/in/ronit-bera-1a3521255/
 
----
-
-> *"Data is more than numbers — it’s the story behind every decision."*
+* Email: ronitbera6751@gmail.com                                              
